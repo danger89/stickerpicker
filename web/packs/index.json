@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "AnonSticker.json",
+    "KookyCat.json",
+    "TheMatrixMovie.json"
+  ],
+  "homeserver_url": "https://matrix.melroy.org"
+}
